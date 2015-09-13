@@ -1,0 +1,45 @@
+{
+  "cars": [
+    {
+      "id": "p306",
+      "vehicule": "peugeot 306",
+      "pricePerDay": 20,
+      "pricePerKm": 0.10
+    }
+  ],
+  "rentals": [
+    {
+      "id": "1-pb-92",
+      "driver": {
+        "firstName": "Paul",
+        "lastName": "Bismuth"
+      },
+      "carId": "p306",
+      "pickupDate": "2015-09-12",
+      "returnDate": "2015-09-12",
+      "distance": 100
+    },
+    {
+      "id": "2-rs-92",
+      "driver": {
+        "firstName": "Rebecca",
+        "lastName": "Solanas"
+      },
+      "carId": "p306",
+      "pickupDate": "2015-09-10",
+      "returnDate": "2015-09-15",
+      "distance": 300
+    },
+    {
+      "id": "3-sa-92",
+      "driver": {
+        "firstName": " Sami",
+        "lastName": "Ameziane"
+      },
+      "car_id": "p306",
+      "pickupDate": "2015-08-31",
+      "returnDate": "2015-09-13",
+      "distance": 1000
+    }
+  ]
+}
