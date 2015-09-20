@@ -20,9 +20,13 @@ Each courses and modules are written in markdown.
 1. [Web design: basics and trends](CM1/web-design-basics-trends.md)
 1. [Developer toolbox](CM1/developer-toolbox.md)
 
-### CM 2 - Modern tools
+### CM 2 - superhero.js
 
-*In progress*
+1. [Node.js, Master of Universe?](CM2/nodejs-universe.md)
+1. [Kriss... Cross](CM2/cross.md)
+1. [Material Design](CM2/material-design.md)
+1. [Git me, I'm famous](CM2/git-me-imfamous.md)
+1. [Productivity](CM2/productivity.md)
 
 ### CM 3 - Architecure and Code organization
 
