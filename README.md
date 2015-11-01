@@ -28,9 +28,14 @@ Each courses and modules are written in markdown.
 1. [Git me, I'm famous](CM2/git-me-imfamous.md)
 1. [Productivity](CM2/productivity.md)
 
-### CM 3 - Architecure and Code organization
+### CM 3 - Building Of Modern Application
 
-*In progress*
+1. [Single Page Application](CM3/single-page-application.md)
+1. [Design Patterns](CM3/single-page-application.md)
+1. [Frameworks VS Micro-libraries](CM3/frameworks-micro-lib.md)
+1. [Fluo, fluis, fluit, Flux](CM3/flux.md)
+1. [Performance](CM3/performance.md)
+1. [3 Musketeers: RDD, CDD and TDD](CM3/3-musketeers.md)
 
 ### CM 4 - Api REST
 
