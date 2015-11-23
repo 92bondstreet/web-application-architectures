@@ -37,9 +37,11 @@ Each courses and modules are written in markdown.
 1. [Performance](CM3/performance.md)
 1. [3 Musketeers: RDD, CDD and TDD](CM3/3-musketeers.md)
 
-### CM 4 - Api REST
+### CM 4 - API-ness
 
-*In progress*
+1. [Data Driven-Development](CM4/ddd.md)
+1. [Because I'm API](CM4/because-api.md)
+1. [To be or Not to be SQL](CM4/no-sql.md)
 
 ## Licence
 
